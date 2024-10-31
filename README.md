@@ -1,10 +1,10 @@
 # MinEuclid
 
-Minumum Euclid
+Minimum Euclid
 
 # License
 
-Minumum Euclid
+Minimum Euclid
 
 Copyright (C) 2024  Mert Gör mertgor@masscollabs.xyz
 
